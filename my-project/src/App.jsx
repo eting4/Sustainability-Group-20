@@ -25,7 +25,7 @@ class App extends Component {
           `<b>${state}</b><br/>
            H100 CO₂: ${co2.toFixed(2)} tons<br/><br/>
            Avg CO₂/MWh per plant: ${co2perMWh.toFixed(2)} <br/><br/>
-           Number of 🌲 needed to offset h100 CO₂: ${num_trees}`
+           Number of 🌲 needed to offset H100 CO₂: ${num_trees}`
         );
       }
     });

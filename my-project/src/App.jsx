@@ -66,9 +66,6 @@ class App extends Component {
   
     return customization;
   };
-  mapHandler = (event) => {
-    alert(event.target.dataset.name);
-  };
 
   render() {
     const gradient = [
@@ -88,7 +85,7 @@ class App extends Component {
     
           {/* ✅ Wrap map and gradient together */}
           <div className="flex flex-col items-center">
-            <USAMap onClick={this.mapHandler} customize={this.generateMapCustomization()} />
+            <USAMap customize={this.generateMapCustomization()} />
             <ReactTooltip id='tooltip' multiline={true} />
     
             <div className="w-full max-w-md mt-6 flex justify-end">

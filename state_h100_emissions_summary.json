@@ -1,0 +1,262 @@
+{
+  "AK": {
+    "Average CO2/MWh": 0.9319178250679545,
+    "Average H100 Annual CO2 Emission (tons)": 5.71358818549163,
+    "Estimated Trees to Offset H100 CO2": 119
+  },
+  "AL": {
+    "Average CO2/MWh": 0.35928463706670766,
+    "Average H100 Annual CO2 Emission (tons)": 2.2027741098559845,
+    "Estimated Trees to Offset H100 CO2": 46
+  },
+  "AR": {
+    "Average CO2/MWh": 0.6053087622597801,
+    "Average H100 Annual CO2 Emission (tons)": 3.7111480214147123,
+    "Estimated Trees to Offset H100 CO2": 77
+  },
+  "AZ": {
+    "Average CO2/MWh": 0.6844151441911487,
+    "Average H100 Annual CO2 Emission (tons)": 4.1961492490359324,
+    "Estimated Trees to Offset H100 CO2": 87
+  },
+  "CA": {
+    "Average CO2/MWh": 0.409565931727133,
+    "Average H100 Annual CO2 Emission (tons)": 2.5110487274190527,
+    "Estimated Trees to Offset H100 CO2": 52
+  },
+  "CO": {
+    "Average CO2/MWh": 1.286918136883792,
+    "Average H100 Annual CO2 Emission (tons)": 7.890095097234529,
+    "Estimated Trees to Offset H100 CO2": 164
+  },
+  "CT": {
+    "Average CO2/MWh": 1.8576055776856772,
+    "Average H100 Annual CO2 Emission (tons)": 11.38897979679089,
+    "Estimated Trees to Offset H100 CO2": 237
+  },
+  "DC": {
+    "Average CO2/MWh": 0.27080729068893916,
+    "Average H100 Annual CO2 Emission (tons)": 1.6603194992138859,
+    "Estimated Trees to Offset H100 CO2": 35
+  },
+  "DE": {
+    "Average CO2/MWh": 0.7252917180796243,
+    "Average H100 Annual CO2 Emission (tons)": 4.446763523546177,
+    "Estimated Trees to Offset H100 CO2": 93
+  },
+  "FL": {
+    "Average CO2/MWh": 0.913872027985015,
+    "Average H100 Annual CO2 Emission (tons)": 5.602949403576127,
+    "Estimated Trees to Offset H100 CO2": 117
+  },
+  "GA": {
+    "Average CO2/MWh": 0.4144753401110998,
+    "Average H100 Annual CO2 Emission (tons)": 2.541148310221153,
+    "Estimated Trees to Offset H100 CO2": 53
+  },
+  "HI": {
+    "Average CO2/MWh": 0.7765255336044542,
+    "Average H100 Annual CO2 Emission (tons)": 4.760878046528909,
+    "Estimated Trees to Offset H100 CO2": 99
+  },
+  "IA": {
+    "Average CO2/MWh": 1.0024040249524453,
+    "Average H100 Annual CO2 Emission (tons)": 6.145739076983442,
+    "Estimated Trees to Offset H100 CO2": 128
+  },
+  "ID": {
+    "Average CO2/MWh": 0.2459957598349082,
+    "Average H100 Annual CO2 Emission (tons)": 1.5082000035478222,
+    "Estimated Trees to Offset H100 CO2": 31
+  },
+  "IL": {
+    "Average CO2/MWh": 1.0913897924343872,
+    "Average H100 Annual CO2 Emission (tons)": 6.691310817415228,
+    "Estimated Trees to Offset H100 CO2": 139
+  },
+  "IN": {
+    "Average CO2/MWh": 0.5989805127998409,
+    "Average H100 Annual CO2 Emission (tons)": 3.672349523975825,
+    "Estimated Trees to Offset H100 CO2": 77
+  },
+  "KS": {
+    "Average CO2/MWh": 1.0226407639923851,
+    "Average H100 Annual CO2 Emission (tons)": 6.269810524037314,
+    "Estimated Trees to Offset H100 CO2": 131
+  },
+  "KY": {
+    "Average CO2/MWh": 0.5288567194768264,
+    "Average H100 Annual CO2 Emission (tons)": 3.2424205471124234,
+    "Estimated Trees to Offset H100 CO2": 68
+  },
+  "LA": {
+    "Average CO2/MWh": 0.5408763568436716,
+    "Average H100 Annual CO2 Emission (tons)": 3.3161129438085513,
+    "Estimated Trees to Offset H100 CO2": 69
+  },
+  "MA": {
+    "Average CO2/MWh": 0.621850294269257,
+    "Average H100 Annual CO2 Emission (tons)": 3.8125641541648143,
+    "Estimated Trees to Offset H100 CO2": 79
+  },
+  "MD": {
+    "Average CO2/MWh": 0.701331150786335,
+    "Average H100 Annual CO2 Emission (tons)": 4.29986128547102,
+    "Estimated Trees to Offset H100 CO2": 90
+  },
+  "ME": {
+    "Average CO2/MWh": 0.5336661043532951,
+    "Average H100 Annual CO2 Emission (tons)": 3.271906885790053,
+    "Estimated Trees to Offset H100 CO2": 68
+  },
+  "MI": {
+    "Average CO2/MWh": 0.518743188444484,
+    "Average H100 Annual CO2 Emission (tons)": 3.180414488353131,
+    "Estimated Trees to Offset H100 CO2": 66
+  },
+  "MN": {
+    "Average CO2/MWh": 0.6461262985068607,
+    "Average H100 Annual CO2 Emission (tons)": 3.9614003361455628,
+    "Estimated Trees to Offset H100 CO2": 83
+  },
+  "MO": {
+    "Average CO2/MWh": 0.7895827290214776,
+    "Average H100 Annual CO2 Emission (tons)": 4.84093171163068,
+    "Estimated Trees to Offset H100 CO2": 101
+  },
+  "MS": {
+    "Average CO2/MWh": 0.845714513317861,
+    "Average H100 Annual CO2 Emission (tons)": 5.1850756811518055,
+    "Estimated Trees to Offset H100 CO2": 108
+  },
+  "MT": {
+    "Average CO2/MWh": 0.792261604859825,
+    "Average H100 Annual CO2 Emission (tons)": 4.8573558993955865,
+    "Estimated Trees to Offset H100 CO2": 101
+  },
+  "NC": {
+    "Average CO2/MWh": 1.3273756111310735,
+    "Average H100 Annual CO2 Emission (tons)": 8.13813987184461,
+    "Estimated Trees to Offset H100 CO2": 170
+  },
+  "ND": {
+    "Average CO2/MWh": 0.8346578227449066,
+    "Average H100 Annual CO2 Emission (tons)": 5.1172871112490235,
+    "Estimated Trees to Offset H100 CO2": 107
+  },
+  "NE": {
+    "Average CO2/MWh": 0.7368038615440691,
+    "Average H100 Annual CO2 Emission (tons)": 4.517344475126688,
+    "Estimated Trees to Offset H100 CO2": 94
+  },
+  "NH": {
+    "Average CO2/MWh": 0.3238340849174325,
+    "Average H100 Annual CO2 Emission (tons)": 1.9854267746287793,
+    "Estimated Trees to Offset H100 CO2": 41
+  },
+  "NJ": {
+    "Average CO2/MWh": 0.5239087478370115,
+    "Average H100 Annual CO2 Emission (tons)": 3.2120845329887175,
+    "Estimated Trees to Offset H100 CO2": 67
+  },
+  "NM": {
+    "Average CO2/MWh": 4.477272995941958,
+    "Average H100 Annual CO2 Emission (tons)": 27.45016073812015,
+    "Estimated Trees to Offset H100 CO2": 572
+  },
+  "NV": {
+    "Average CO2/MWh": 0.22175767504960886,
+    "Average H100 Annual CO2 Emission (tons)": 1.359596305729152,
+    "Estimated Trees to Offset H100 CO2": 28
+  },
+  "NY": {
+    "Average CO2/MWh": 2.567328828555477,
+    "Average H100 Annual CO2 Emission (tons)": 15.74029304787363,
+    "Estimated Trees to Offset H100 CO2": 328
+  },
+  "OH": {
+    "Average CO2/MWh": 0.8563959194416878,
+    "Average H100 Annual CO2 Emission (tons)": 5.2505633820969875,
+    "Estimated Trees to Offset H100 CO2": 109
+  },
+  "OK": {
+    "Average CO2/MWh": 0.6578989110103572,
+    "Average H100 Annual CO2 Emission (tons)": 4.033578223404501,
+    "Estimated Trees to Offset H100 CO2": 84
+  },
+  "OR": {
+    "Average CO2/MWh": 0.24076156267099585,
+    "Average H100 Annual CO2 Emission (tons)": 1.4761091407358755,
+    "Estimated Trees to Offset H100 CO2": 31
+  },
+  "PA": {
+    "Average CO2/MWh": 0.6777227103647706,
+    "Average H100 Annual CO2 Emission (tons)": 4.155117937246409,
+    "Estimated Trees to Offset H100 CO2": 87
+  },
+  "PR": {
+    "Average CO2/MWh": 0.9432296716208645,
+    "Average H100 Annual CO2 Emission (tons)": 5.782941116707521,
+    "Estimated Trees to Offset H100 CO2": 120
+  },
+  "RI": {
+    "Average CO2/MWh": 0.4003542921654302,
+    "Average H100 Annual CO2 Emission (tons)": 2.4545721652662524,
+    "Estimated Trees to Offset H100 CO2": 51
+  },
+  "SC": {
+    "Average CO2/MWh": 0.4507371254864628,
+    "Average H100 Annual CO2 Emission (tons)": 2.7634693163575035,
+    "Estimated Trees to Offset H100 CO2": 58
+  },
+  "SD": {
+    "Average CO2/MWh": 0.750246762900908,
+    "Average H100 Annual CO2 Emission (tons)": 4.599762903345467,
+    "Estimated Trees to Offset H100 CO2": 96
+  },
+  "TN": {
+    "Average CO2/MWh": 0.9683523784766375,
+    "Average H100 Annual CO2 Emission (tons)": 5.936968432440263,
+    "Estimated Trees to Offset H100 CO2": 124
+  },
+  "TX": {
+    "Average CO2/MWh": 0.6715122186141416,
+    "Average H100 Annual CO2 Emission (tons)": 4.117041412323302,
+    "Estimated Trees to Offset H100 CO2": 86
+  },
+  "UT": {
+    "Average CO2/MWh": 0.9153414200560992,
+    "Average H100 Annual CO2 Emission (tons)": 5.611958246363944,
+    "Estimated Trees to Offset H100 CO2": 117
+  },
+  "VA": {
+    "Average CO2/MWh": 0.5988595332558239,
+    "Average H100 Annual CO2 Emission (tons)": 3.6716077983914563,
+    "Estimated Trees to Offset H100 CO2": 76
+  },
+  "VT": {
+    "Average CO2/MWh": 0.9911696104605454,
+    "Average H100 Annual CO2 Emission (tons)": 6.076860881733604,
+    "Estimated Trees to Offset H100 CO2": 127
+  },
+  "WA": {
+    "Average CO2/MWh": 0.4790844814798667,
+    "Average H100 Annual CO2 Emission (tons)": 2.937266955953063,
+    "Estimated Trees to Offset H100 CO2": 61
+  },
+  "WI": {
+    "Average CO2/MWh": 0.6934784124173783,
+    "Average H100 Annual CO2 Emission (tons)": 4.2517161465309465,
+    "Estimated Trees to Offset H100 CO2": 89
+  },
+  "WV": {
+    "Average CO2/MWh": 0.8819005806163729,
+    "Average H100 Annual CO2 Emission (tons)": 5.406932459758982,
+    "Estimated Trees to Offset H100 CO2": 113
+  },
+  "WY": {
+    "Average CO2/MWh": 0.8742549707912275,
+    "Average H100 Annual CO2 Emission (tons)": 5.360057225921016,
+    "Estimated Trees to Offset H100 CO2": 112
+  }
+}

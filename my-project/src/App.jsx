@@ -80,8 +80,8 @@ class App extends Component {
     ];
   
     return (
-      <div className='w-full h-screen bg-gray-300'>
-        <div className='flex flex-col h-full justify-center items-center'>
+      <div className='w-full min-h-screen bg-gray-300'>
+        <div className='flex flex-col items-center py-8 px-4'>
           <h1 className='text-black text-2xl font-bold text-center px-4 mb-8'>
             Estimated Annual CO₂ Output of H100 GPU per Power Plant
           </h1>
